@@ -15,6 +15,7 @@ namespace WhiteSpaceRemoval
             {
                 if (isDevelopmentMode == "true")
                 {
+
                     if (response.ContentType == "text/html" && response.Filter != null)
                     {
                         response.Filter = new WhitespaceModule(response.Filter);
