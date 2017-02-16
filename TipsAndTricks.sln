@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteSpaceRemoval", "WhiteSpaceRemoval\WhiteSpaceRemoval.csproj", "{50A7D98B-D700-4ACE-91A7-212E30447823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationInsightMVC", "ApplicationInsightMVC\ApplicationInsightMVC.csproj", "{F4825D72-87F1-4372-AEF3-F0367FAC47A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlugInMVCApplication", "SlugInMVCApplication\SlugInMVCApplication.csproj", "{4494A0C2-945F-4A61-95CE-ADCF4F786138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyProject-Folders", "EmptyProject\EmptyProject-Folders.csproj", "{FA7A3BCF-D096-4BC4-A28E-B56A4F7A3ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BundlingAndMinificationMVC", "BundlingAndMinificationMVC\BundlingAndMinificationMVC.csproj", "{109CFF19-E72F-4062-AF88-7243C7F0CBA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackFormWithScreenshotMVC", "FeedbackFormWithScreenshotMVC\FeedbackFormWithScreenshotMVC.csproj", "{FE7258B3-EEEA-4019-8564-6D5C5C2F9601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50A7D98B-D700-4ACE-91A7-212E30447823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A7D98B-D700-4ACE-91A7-212E30447823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A7D98B-D700-4ACE-91A7-212E30447823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A7D98B-D700-4ACE-91A7-212E30447823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4825D72-87F1-4372-AEF3-F0367FAC47A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4825D72-87F1-4372-AEF3-F0367FAC47A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4825D72-87F1-4372-AEF3-F0367FAC47A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4825D72-87F1-4372-AEF3-F0367FAC47A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4494A0C2-945F-4A61-95CE-ADCF4F786138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4494A0C2-945F-4A61-95CE-ADCF4F786138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4494A0C2-945F-4A61-95CE-ADCF4F786138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4494A0C2-945F-4A61-95CE-ADCF4F786138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA7A3BCF-D096-4BC4-A28E-B56A4F7A3ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7A3BCF-D096-4BC4-A28E-B56A4F7A3ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7A3BCF-D096-4BC4-A28E-B56A4F7A3ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7A3BCF-D096-4BC4-A28E-B56A4F7A3ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{109CFF19-E72F-4062-AF88-7243C7F0CBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109CFF19-E72F-4062-AF88-7243C7F0CBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109CFF19-E72F-4062-AF88-7243C7F0CBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109CFF19-E72F-4062-AF88-7243C7F0CBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7258B3-EEEA-4019-8564-6D5C5C2F9601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7258B3-EEEA-4019-8564-6D5C5C2F9601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7258B3-EEEA-4019-8564-6D5C5C2F9601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7258B3-EEEA-4019-8564-6D5C5C2F9601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
